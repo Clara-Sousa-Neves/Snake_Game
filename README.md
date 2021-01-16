@@ -1,1 +1,1 @@
-👩🏼‍💻 The snake game made in Java language.
+👩🏼‍💻 The snake game made with Java language.
